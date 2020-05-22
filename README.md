@@ -12,7 +12,7 @@
 
 To begin using this template, choose one of the following options to get started:
 * Due to the use of Bootstrap technology, an internet connection is required.
-* Clone the repo: `git clone https://github.com/aykutkorkmaz1/aykutkorkmaz1.github.io`
+* Clone the repo: `git clone https://github.com/aykutkorkmaz1/aykutkorkmaz1.github.io.git`
 * Fork the repo
 * Internet connection is required for Bootstrap cores to work.
 * Edit and go.
