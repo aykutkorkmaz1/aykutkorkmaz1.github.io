@@ -8,7 +8,20 @@
 
 [Worked on this theme](https://startbootstrap.com/themes/resume/)
 
-## Requirements
-- Internet connection is required for Bootstrap cores to work.
-- Edit and go.
-- No npm script was used.
+## Getting Started
+
+To begin using this template, choose one of the following options to get started:
+* Due to the use of Bootstrap technology, an internet connection is required.
+* Clone the repo: `git clone https://github.com/aykutkorkmaz1/blog.git`
+* Fork the repo
+* Internet connection is required for Bootstrap cores to work.
+* Edit and go.
+* No npm script was used.
+
+## Bugs and Issues
+
+Have a bug or an issue with this template? Open a new issue and I will fix.
+
+## Copyright and License
+
+Copyright 2020 Aykut Korkmaz.
