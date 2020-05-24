@@ -40,3 +40,14 @@
         target: "#sideNav",
     });
 })(jQuery); // End of use strict
+
+var modal = document.querySelector('dialog');
+
+document.querySelector('#open').onclick = function () {
+    modal.showModal();
+}
+
+document.querySelector('#close').onclick = function () {
+    modal.close();
+    return false;
+}

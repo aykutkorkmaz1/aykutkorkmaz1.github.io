@@ -1,0 +1,48 @@
+dialog {
+    width: 350px;
+    height: 100px;
+    text-align: center;
+    border: 3px solid #1db872;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.50), 0 2px 4px -1px rgba(0, 0, 0, 0.50);
+}
+
+#text {
+    border: 0;
+    background: none;
+    display: block;
+    border: 2px solid #1db872;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    background-color: #495057;
+}
+
+#text:hover {
+    border: 0;
+    background: none;
+    display: block;
+    border: 2px solid #ca8318;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    background-color: #495057;
+}
+
+#close {
+    width: 50px;
+    border: 2px solid #1db872;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+#close:hover{
+    width: 100px;
+    border: 2px solid #1db872;
+    border-radius: 10px;
+    background-color: #495057;
+    color: white;
+    cursor: pointer;
+}
