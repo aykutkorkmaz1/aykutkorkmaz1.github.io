@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/github/issues/aykutkorkmaz1/aykutkorkmaz1.github.io)
 ![](https://img.shields.io/github/license/aykutkorkmaz1/aykutkorkmaz1.github.io)
-![](https://img.shields.io/badge/version-0.1.1-orange)
+![](https://img.shields.io/badge/version-0.1.2-orange)
 ![](https://img.shields.io/badge/langs-css%2C%20js-blue)
 ![](https://img.shields.io/badge/build-passing-brightgreen)
 
