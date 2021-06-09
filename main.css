@@ -1,4 +1,10 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 body {
+  margin: 0px 0px 0px 0px;
+  align-items: center;
   background-color: #181818;
 }
 
@@ -46,6 +52,13 @@ body {
   height: 40px;
   margin: 0px 0px 0px 0px;
   padding: 7px;
+  border-bottom: 1px solid transparent;
+  transition: 0.3s;
+}
+
+.social-icon:hover {
+  transition: 0.3s;
+  border-bottom: 1px solid #fff;
 }
 
 .right-1 {
@@ -176,7 +189,8 @@ body {
   width: fit-content;
   display: flex;
   flex-direction: row;
-  margin: 50px auto 0px auto;
+  justify-content: center;
+  margin: 70px auto 0px auto;
 }
 
 .right {
