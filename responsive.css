@@ -1,0 +1,142 @@
+@media screen and (max-width: 400px) {
+  .all {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+    width: fit-content;
+  }
+
+  .left {
+    justify-content: center;
+    width: fit-content;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+  }
+
+  .left-1 {
+    align-items: center;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    width: fit-content;
+    justify-content: center;
+  }
+
+  .name-pp {
+    width: fit-content;
+  }
+
+  .name {
+    font-size: 25px;
+    margin: 15px 0px 0px 0px;
+  }
+
+  .pp {
+    width: 130px;
+    height: 130px;
+  }
+
+  .social-media {
+    width: fit-content;
+    justify-content: center;
+    margin: 10px auto 0px auto;
+  }
+
+  .social-icon img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .right-1 {
+    margin: 0px 0px 15px 0px;
+    padding: 10px;
+    width: fit-content;
+    justify-content: center;
+  }
+
+  .right-1 h2 {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .right-1 p {
+    text-align: center;
+    width: fit-content;
+    font-size: 18px;
+    margin: 5px 0px 0px 0px;
+  }
+
+  .right-2 {
+    float: left;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    width: fit-content;
+    align-items: center;
+    text-align: center;
+    width: fit-content;
+  }
+
+  .langs {
+    width: fit-content;
+    justify-content: center;
+    margin: 5px 0px 0px 0px;
+  }
+
+  .langs img {
+    padding: 5px;
+  }
+
+  .tools {
+    width: fit-content;
+    justify-content: center;
+    margin: 5px 0px 0px 0px;
+  }
+
+  .tools img {
+    padding: 5px;
+  }
+
+  /* ------- edu - exp --------*/
+
+  .edu-exp {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0px 0px 0px;
+  }
+
+  .experience {
+    width: fit-content;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .experience h2 {
+    margin: 0px 0px 7px 0px;
+  }
+
+  .item {
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+  }
+
+  .education {
+    width: fit-content;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .education h2 {
+    margin: 0px 0px 7px 0px;
+  }
+}

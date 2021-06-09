@@ -1,0 +1,195 @@
+body {
+  background-color: #181818;
+}
+
+.left-1 {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto 0px auto;
+  padding: 10px;
+}
+
+.name-pp {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0px 0px 0px 0px;
+}
+
+.name {
+  color: #fff;
+  margin: 10px 0px 0px 0px;
+  font-size: 35px;
+}
+
+.pp {
+  width: 150px;
+  height: 150px;
+  margin: 0px 0px 0px 0px;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10px 0px 0px 0px;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 0px 0px 0px 0px;
+}
+
+.social-icon img {
+  width: 40px;
+  height: 40px;
+  margin: 0px 0px 0px 0px;
+  padding: 7px;
+}
+
+.right-1 {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  margin: 0px auto 0px auto;
+  padding: 10px;
+  align-items: center;
+}
+
+.right-1 h2 {
+  text-align: center;
+  color: #fff;
+  margin: 0px 0px 0px 0px;
+}
+
+.right-1 p {
+  text-align: center;
+  width: 30em;
+  color: #fff;
+  font-size: 20px;
+  margin: 10px 0px 0px 0px;
+}
+
+.right-2 {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  margin: 30px auto 0px auto;
+  padding: 10px;
+  align-items: center;
+}
+
+.right-2 h2 {
+  text-align: center;
+  color: #fff;
+  margin: 0px 0px 0px 0px;
+}
+
+.langs {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10px 0px 0px 0px;
+}
+
+.langs img {
+  width: 50px;
+  height: 50px;
+  margin: 0px 0px 0px 0px;
+  padding: 10px;
+}
+
+.tools {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 0px 0px 0px 0px;
+}
+
+.tools img {
+  width: 50px;
+  height: 50px;
+  margin: 0px 0px 0px 0px;
+  padding: 10px;
+}
+
+.bottom-text {
+  width: fit-content;
+  text-align: center;
+  margin: 0px auto 0px auto;
+  color: #fae800;
+  font-size: 20px;
+}
+
+/* ----------- experience - education ---------- */
+
+.experience {
+  width: fit-content;
+  color: #fff;
+  margin: 0px 30px 0px 0px;
+}
+
+.item {
+  text-align: left;
+  width: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: 0px 0px 0px 0px;
+  padding: 0px;
+}
+
+.education {
+  width: fit-content;
+  color: #fff;
+  margin: 0px 0px 0px 30px;
+}
+
+.education h2 {
+  margin: 0px 0px 10px 0px;
+}
+
+.experience h2 {
+  margin: 0px 0px 10px 0px;
+}
+
+.location-name {
+  color: rgb(199, 199, 199);
+}
+
+.date {
+  color: rgb(199, 199, 199);
+}
+
+.item p {
+  font-size: 18px;
+  margin: 0px 0px 0px 0px;
+}
+.item h3 {
+  margin: 0px 0px 5px 0px;
+}
+
+/* ------ position -------- */
+
+.all {
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  margin: 50px auto 0px auto;
+}
+
+.right {
+  margin-left: 20px;
+}
+
+.left {
+  margin: auto 20px auto auto;
+}
+
+.edu-exp {
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+  margin: 50px auto 0px auto;
+}
