@@ -1,11 +1,10 @@
-* {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 body {
   margin: 0px 0px 0px 0px;
   align-items: center;
   background-color: #181818;
+  font-family: "PT Serif", serif;
+  font-style: normal;
+  font-weight: 400;
 }
 
 .left-1 {
@@ -39,7 +38,7 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 10px 0px 0px 0px;
+  margin: 0px 0px 0px 0px;
   text-align: center;
 }
 
@@ -103,7 +102,7 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  margin: 10px 0px 0px 0px;
+  margin: 5px 0px 0px 0px;
 }
 
 .langs img {
